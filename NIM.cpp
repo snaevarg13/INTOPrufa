@@ -61,6 +61,7 @@ int main( )
 void spila( )
 {
 	int hruga[ 10 ];
+	cout << "huehuehuehue heuheuheu" << endl;
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << "                   NU SPILUM VID NIM!!" << endl;
 	cout << "*-------------------------------------------------------*" << endl;
